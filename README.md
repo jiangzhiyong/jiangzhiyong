@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiangzhiyong
 - 👀 I’m interested in Python, Machine Learning
-- 🌱 I’m currently learning PySpark
+- 🌱 I’m currently learning volleyball
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 Reach me out by emailing: joe_jiangzhiyong@berkeley.edu
 
